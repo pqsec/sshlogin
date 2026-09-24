@@ -1,7 +1,7 @@
 # Binaries and shared libraries
 pam_sshlogin.so
 pam_sshlogin.h
-sshlogin-response
+/sshlogin-response
 
 # Test artifacts
 *.test
